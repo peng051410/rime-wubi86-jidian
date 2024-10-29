@@ -21306,6 +21306,7 @@ u	copu	10
 下咽	ghkl	10
 正史	ghkq	10
 下车	ghlg	10
+下架	ghlk	30
 下回	ghlk	10
 下田	ghll	10
 下边	ghlp	10
@@ -21335,8 +21336,8 @@ u	copu	10
 下届	ghnm	10
 政局	ghnn	20
 丏	ghnn	10
-下属	ghnt	30
-下发	ghnt	20
+下属	ghnt	20
+下发	ghnt	30
 政改	ghnt	10
 忑	ghnu	10
 丐	ghnv	10
@@ -25077,7 +25078,7 @@ HDR	hdr	10
 丨	hhl	10
 卡恩	hhld	10
 卡车	hhlg	20
-上车	hhlg	10
+上车	hhlg	30
 上架	hhlk	20
 上回	hhlk	10
 丨	hhll	20
@@ -44439,7 +44440,7 @@ MacbookPro	mbp	10
 心悦诚服	nnye	10
 忌讳	nnyf	10
 羽	nnyg	20
-书评	nnyg	10
+书评	nnyg	30
 书店	nnyh	10
 习以为常	nnyi	10
 书库	nnyl	10
@@ -55738,7 +55739,7 @@ QQ	qq	10
 报案	rbpv	10
 报社	rbpy	10
 摄氏	rbqa	20
-报错	rbqa	10
+报错	rbqa	30
 报怨	rbqb	10
 报销	rbqi	10
 报名	rbqk	10
@@ -66435,7 +66436,7 @@ SD卡	sdhh	20
 勳	tgll	10
 熏	tglo	10
 条形图	tglt	30
-策略	tglt	20
+策略	tglt	40
 重力	tglt	10
 惩办	tglw	10
 惩罚	tgly	20
@@ -69841,7 +69842,7 @@ TF卡	ttfhh	10
 龜	txd	10
 每套	txdd	10
 第三	txdg	20
-敏感	txdg	10
+敏感	txdg	30
 身经百战	txdh	10
 每页	txdm	10
 繁盛	txdn	10
@@ -72625,7 +72626,7 @@ Ubuntu	ubun	10
 閊	umk	10
 商号	umkg	10
 商品	umkk	20
-端口	umkk	10
+端口	umkk	30
 商团	umlf	10
 辛迪加	umlk	10
 商圈	umlu	10
@@ -78358,7 +78359,7 @@ m³	uuyy	10	立方
 使人	wgww	10
 僵化	wgwx	10
 合集	wgwy	30
-命令	wgwy	20
+命令	wgwy	40
 全集	wgwy	10
 全线	wgxg	20
 仾	wgxg	10
